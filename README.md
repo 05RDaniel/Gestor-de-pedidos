@@ -108,10 +108,3 @@ gestor_pedidos/
 - Para cambiar la base de datos a PostgreSQL u otra, actualice `settings.py` en el backend.
 - Este proyecto es un ejemplo académico y puede ser ampliado con autenticación, 
   métricas avanzadas o despliegue en la nube.
-
----
-
-## 👨‍💻 Autor
-
-Proyecto generado como ejemplo de **sistema de gestión de pedidos** utilizando 
-Django + Vue.js.
